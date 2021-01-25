@@ -1,0 +1,11 @@
+.blog{
+    width: 68%;
+    height: 50%;
+    position: relative;
+    left: 16%;
+    top: 25%;
+    margin-top: 3%;
+}
+#delete-post{
+    color: red;
+}

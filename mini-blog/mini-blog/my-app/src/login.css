@@ -1,0 +1,23 @@
+.login-form{
+    width: 68%;
+    height: 50%;
+    position: relative;
+    left: 16%;
+    top: 25%;
+    margin-top: 3%;
+}
+.fa-user{
+    position: relative;
+    top: -54%;
+    left: 93%;
+}
+.fa-password{
+    position: relative;
+    top: -54%;
+    left: 93%;  
+}
+.erro-msg{
+ text-align: center;
+ width:44%;
+ margin-left:27.5%;
+}
